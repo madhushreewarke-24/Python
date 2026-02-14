@@ -1,0 +1,26 @@
+Tkinter is a standard GUI (Graphical User Interface) library in Python used to create desktop applications.
+
+🔹 What is Tkinter?
+Tkinter allows you to create windows, buttons, text boxes, labels, menus, and other GUI elements for desktop software using Python.
+It comes pre-installed with Python, so no extra installation is needed.
+
+🔹 Features of Tkinter
+Easy to use and beginner-friendly
+Built-in with Python
+Used to create desktop applications
+
+Supports widgets like:
+1) Button
+2) Label
+3) Text box
+4) Entry field
+5) Checkbox
+6) Radio button
+7) Menu
+
+🔹 Basic Structure of Tkinter Program
+
+Import tkinter
+Create main window
+Add widgets (button, label, etc.)
+Run the application
